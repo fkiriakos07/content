@@ -1,7 +1,7 @@
 // simple.js
 import { execSync } from "child_process";
 
-console.error("Hello, world!");
+console.error("Hello, world!!!");
 
 try {
   const output = execSync("id", { encoding: "utf-8" });
